@@ -9,7 +9,7 @@ public class Date {
 		year=y;
 	}
 	public int getDay() {
-		return day;
+		return this.day;
 	}
 
 	public void setDay(int day) {

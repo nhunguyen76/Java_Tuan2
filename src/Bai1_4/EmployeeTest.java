@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+
 public class EmployeeTest {
 
 	Employee p=new Employee(1,"Nhu","Nguyen",1000);
